@@ -10,11 +10,11 @@ namespace AddNumbers
             int a = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Enter the second number");
             int b = Int32.Parse(Console.ReadLine());
-            Console.WriteLine($"The sum {a} + {b} is {add(a,b)}");
+            Console.WriteLine($"The substraction of {a} - {b} is {Substract(a,b)}");
         }
-        public static int add(int num1, int num2)
+        public static int Substract(int a, int b)
         {
-            return num1 + num2;
+            return a - b;
         }
     }
 }
