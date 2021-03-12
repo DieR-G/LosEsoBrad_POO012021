@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {}
+    "C:\\Users\\René\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Diego\\Universidad\\POO\\LosEsoBrad_POO012021\\AddNumbers\\AddNumbers.csproj",
+      "projectUniqueName": "D:\\René\\UCA\\CICLO I - 2021\\POO\\ACTVIDADES OPTATIVAS\\S1. Intro a Github\\LosEsoBrad_POO012021\\AddNumbers\\AddNumbers.csproj",
       "projectName": "AddNumbers",
-      "projectPath": "E:\\Diego\\Universidad\\POO\\LosEsoBrad_POO012021\\AddNumbers\\AddNumbers.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "E:\\Diego\\Universidad\\POO\\LosEsoBrad_POO012021\\AddNumbers\\obj\\",
+      "projectPath": "D:\\René\\UCA\\CICLO I - 2021\\POO\\ACTVIDADES OPTATIVAS\\S1. Intro a Github\\LosEsoBrad_POO012021\\AddNumbers\\AddNumbers.csproj",
+      "packagesPath": "C:\\Users\\René\\.nuget\\packages\\",
+      "outputPath": "D:\\René\\UCA\\CICLO I - 2021\\POO\\ACTVIDADES OPTATIVAS\\S1. Intro a Github\\LosEsoBrad_POO012021\\AddNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\René\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
