@@ -8,15 +8,15 @@ namespace AddNumbers
         {
             Console.WriteLine("Enter the first number");
             int a = Int32.Parse(Console.ReadLine());
-            
+
             Console.WriteLine("Enter the second number");
             int b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"The substraction of {a} - {b} is {Substract(a,b)}");
+            Console.WriteLine($"The product of {a} * {b} is {Multiply(a,b)}");
         }
-        public static int Substract(int a, int b)
+        public static int Multiply(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
